@@ -3,17 +3,7 @@
 <body>
 
 <p>
-
-hello how are you??? its paragraph  
-
-</p>
-
-<p>
-remind you agin its para part
-</p>
-
-<p>
-it fun to learn
+Hello World!
 </p>
 
 </body>
