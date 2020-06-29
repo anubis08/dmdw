@@ -1,2 +1,2 @@
-# dbdm
-database and data mining - college class
+# dmdw
+data mining and data warehouse - college class
